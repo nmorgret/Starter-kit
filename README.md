@@ -1,5 +1,6 @@
 |Name|Image|Link|
 |---|---|---|
+|Soldering kit|![](https://m.media-amazon.com/images/I/71S41HufQJL._AC_UL320_ML3_.jpg)|https://smile.amazon.com/ANBES-Soldering-Iron-Kit-Electronics/dp/B06XZ31W3M/ref=sxin_3_ac_d_rm?ac_md=0-0-c29sZGVyaW5nIGlyb24ga2l0-ac_d_rm&crid=24JNV6NFQJUYS&cv_ct_cx=soldering+iron+kit&keywords=soldering+iron+kit&pd_rd_i=B06XZ31W3M&pd_rd_r=2c2b99eb-b9a1-4952-a4d4-8a01266c5b0d&pd_rd_w=qQIL4&pd_rd_wg=8gVXC&pf_rd_p=6d29ef56-fc35-411a-8a8e-7114f01518f7&pf_rd_r=DRE2774T7VE64D8HRVFS&psc=1&qid=1579469590&sprefix=soldering+iron+%2Caps%2C202|
 |853D|![](https://m.media-amazon.com/images/I/61BD-38KpXL._AC_AA180_.jpg)|https://smile.amazon.com/gp/product/B0154G47NA/ref=ox_sc_act_title_1?smid=AJS4HSWW4RR2L&psc=1|
 |Solder wick|![](https://m.media-amazon.com/images/I/81glGHL0lTL._AC_AA180_.jpg)|https://smile.amazon.com/gp/product/B0195UVWJ8/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1|
 |Non-magnetic tweezers|![](https://m.media-amazon.com/images/I/51oS4CO7MDL._AC_AA180_.jpg)|https://smile.amazon.com/gp/product/B00Y1U10HC/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&psc=1|
